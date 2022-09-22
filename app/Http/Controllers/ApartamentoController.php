@@ -30,6 +30,7 @@ class ApartamentoController extends Controller
     public function plantilla()
     {
         return view('plantilla');
+        # raiz
     }
 
     /**
